@@ -2,6 +2,9 @@
 <flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
   <includeClasses>
     <classEntry path="Component"/>
+    <classEntry path="ConsoleManager"/>
+    <classEntry path="event.ApplicationEvent"/>
+    <classEntry path="utils.JPEGEncoder"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>
